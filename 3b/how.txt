@@ -1,11 +1,3 @@
-index.js, mongo.js are 3b 
+npm install mongod
 
-npm init
-
-press enter
-
-yes
-
-npm install express
-
-node index.js
+npm i mongodb 
