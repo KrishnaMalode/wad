@@ -1,0 +1,11 @@
+index.js, mongo.js are 3b 
+
+npm init
+
+press enter
+
+yes
+
+npm install express
+
+node index.js
